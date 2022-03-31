@@ -73,6 +73,7 @@ theme:
     - navigation.tabs
     - navigation.instant
     - navigation.top
+    - navigation.expand
 plugins:
   - search
 extra_javascript:
