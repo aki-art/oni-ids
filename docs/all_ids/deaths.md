@@ -1,0 +1,66 @@
+<table>
+    <thead>
+        <th data-sort-default>Name</th>
+        <th>ID</th>
+    </thead>
+        <tr>
+            <td>Death</td>
+            <td>Generic</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Frozen</td>
+            <td>Frozen</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Suffocation</td>
+            <td>Suffocation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Starvation</td>
+            <td>Starvation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Overheated</td>
+            <td>Overheating</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Drowned</td>
+            <td>Drowned</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Explosion</td>
+            <td>Explosion</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Slain</td>
+            <td>Combat</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Succumbed to Disease</td>
+            <td>FatalDisease</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Irradiated</td>
+            <td>Radiation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Struck by Radbolt</td>
+            <td>HitByHighEnergyParticle</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Struck by Radbolt</td>
+            <td>DeadBattery</td>
+            <td></td>
+        </tr>
+</table>

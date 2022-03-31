@@ -1,0 +1,46 @@
+<table>
+    <thead>
+        <th data-sort-default>Name</th>
+        <th>ID</th>
+    </thead>
+        <tr>
+            <td>FoodSickness</td>
+            <td>FoodSickness</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SlimeSickness</td>
+            <td>SlimeSickness</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ZombieSickness</td>
+            <td>ZombieSickness</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RadiationSickness</td>
+            <td>RadiationSickness</td>
+            <td>Spaced Out</td>
+        </tr>
+        <tr>
+            <td>Allergies</td>
+            <td>Allergies</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ColdSickness</td>
+            <td>ColdSickness</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>HeatSickness</td>
+            <td>HeatSickness</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SunburnSickness</td>
+            <td>SunburnSickness</td>
+            <td></td>
+        </tr>
+</table>

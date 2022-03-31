@@ -1,0 +1,31 @@
+<table>
+    <thead>
+        <th data-sort-default>Name</th>
+        <th>ID</th>
+    </thead>
+        <tr>
+            <td>Sleep</td>
+            <td>Sleep</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Mealtime</td>
+            <td>Eat</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Work</td>
+            <td>Work</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Hygiene</td>
+            <td>Hygiene</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Recreation</td>
+            <td>Recreation</td>
+            <td></td>
+        </tr>
+</table>

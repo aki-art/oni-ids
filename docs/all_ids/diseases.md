@@ -1,0 +1,31 @@
+<table>
+    <thead>
+        <th data-sort-default>Name</th>
+        <th>ID</th>
+    </thead>
+        <tr>
+            <td>FoodPoisoning</td>
+            <td>FoodPoisoning</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>SlimeLung</td>
+            <td>SlimeLung</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>PollenGerms</td>
+            <td>PollenGerms</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ZombieSpores</td>
+            <td>ZombieSpores</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>RadiationSickness</td>
+            <td>RadiationSickness</td>
+            <td>Spaced Out</td>
+        </tr>
+</table>

@@ -1,0 +1,80 @@
+site_name: Oxygen Not Included IDs
+nav:
+  - Home: index.md
+  - Docs:
+    - Home: index.md
+    - "Common Types":
+      - "Buildings" : all_ids/Buildings.md
+      - "Building Categories" : all_ids/BuildingCategories.md
+      - "Elements" : all_ids/Elements.md
+      - "Critters" : all_ids/critters.md
+      - "Geysers" : all_ids/geysers.md
+      - "Plants" : all_ids/plants.md
+      - "Eggs" : all_ids/eggs.md
+      - "Food" : all_ids/food.md
+      - "Equippable" : all_ids/equippable.md
+      - "Sicknesses" : all_ids/sicknesses.md
+    - "IDs":      
+      - "Accessories" : all_ids/accessories.md
+      - "Accessoryslots" : all_ids/accessoryslots.md
+      - "Amount" : all_ids/amount.md
+      - "Artifacts" : all_ids/artifacts.md
+      - "Assignableslot" : all_ids/assignableslot.md
+      - "Attributeconverter" : all_ids/attributeconverter.md
+      - "Attributes" : all_ids/attributes.md
+      - "Buildingattributes" : all_ids/buildingattributes.md
+      - "Buildingcategories" : all_ids/BuildingCategories.md
+      - "Buildings" : all_ids/Buildings.md
+      - "Choregroups" : all_ids/choregroups.md
+      - "Choretypes" : all_ids/choretypes.md
+      - "Colonyachievements" : all_ids/colonyachievements.md
+      - "Comets" : all_ids/comets.md
+      - "Composting" : all_ids/composting.md
+      - "Critters" : all_ids/critters.md
+      - "Deaths" : all_ids/deaths.md
+      - "Deconstructable misc." : all_ids/Deconstructable Misc.md
+      - "Diseases" : all_ids/diseases.md
+      - "Effects" : all_ids/effects.md
+      - "Eggs" : all_ids/eggs.md
+      - "Elements" : all_ids/Elements.md
+      - "Equippable" : all_ids/equippable.md
+      - "Fertilitymodifier" : all_ids/fertilitymodifier.md
+      - "Food" : all_ids/food.md
+      - "Geysers" : all_ids/geysers.md
+      - "Gravitas poi" : all_ids/Gravitas POI.md
+      - "Harvestable space pois" : all_ids/Harvestable Space POIs.md
+      - "Industrial ingredients" : all_ids/industrial ingredients.md
+      - "Medicine" : all_ids/medicine.md
+      - "Personality" : all_ids/personality.md
+      - "Plants" : all_ids/plants.md
+      - "Roomtypes" : all_ids/roomtypes.md
+      - "Scheduleblocktypes" : all_ids/scheduleblocktypes.md
+      - "Seeds" : all_ids/seeds.md
+      - "Sicknesses" : all_ids/sicknesses.md
+      - "Skillgroups" : all_ids/skillgroups.md
+      - "Skillperks" : all_ids/skillperks.md
+      - "Skills" : all_ids/skills.md
+      - "Spaceartifactpois" : all_ids/SpaceArtifactPOIs.md
+      - "Spacedestinations" : all_ids/spacedestinations.md
+      - "Special" : all_ids/Special.md
+      - "Techitems" : all_ids/techitems.md
+      - "Techs" : all_ids/techs.md
+      - "Thoughts" : all_ids/thoughts.md
+      - "Trait" : all_ids/trait.md
+      - "Urge" : all_ids/urge.md
+      - "Misc" : all_ids/misc.md
+
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
+plugins:
+  - search
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascript/tablesort.js

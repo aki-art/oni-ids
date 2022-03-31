@@ -1,0 +1,81 @@
+<table>
+    <thead>
+        <th data-sort-default>Name</th>
+        <th>ID</th>
+    </thead>
+        <tr>
+            <td>Bed</td>
+            <td>Bed</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Dining Table</td>
+            <td>MessStation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Clinic</td>
+            <td>Clinic</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Clinic</td>
+            <td>MedicalBed</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Neural Vacillator</td>
+            <td>GeneShuffler</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Toilet</td>
+            <td>Toilet</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Massage Table</td>
+            <td>MassageTable</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Command Module</td>
+            <td>RocketCommandModule</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Habitat Module</td>
+            <td>HabitatModule</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>ResetSkillsStation</td>
+            <td>ResetSkillsStation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Teleportal</td>
+            <td>WarpPortal</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Toy</td>
+            <td>Toy</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Suit</td>
+            <td>Suit</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Multitool</td>
+            <td>Multitool</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Clothing</td>
+            <td>Outfit</td>
+            <td></td>
+        </tr>
+</table>
