@@ -1,4 +1,4 @@
-Dump of (almost) all Prefab ID-s fro the game Oxygen Not Included.
+Dump of (almost) all Prefab ID-s from the game Oxygen Not Included.
 
 This should make certain mod configurations easier to access and know what ID-s to supply.
 
